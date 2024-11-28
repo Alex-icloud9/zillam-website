@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "bgThumb": "demo1.png",
+        "title": "Meet Consulting",
+        "title1": "No more Hassle",
+        "title2": "Just quality solution for your home.",
+        "btnText": "Our Services",
+        "shapeThumb": "4.png",
+        "videoId": "owhuBrGIOsEdsk"
+    },
+    {
+        "id": 2,
+        "bgThumb": "zillam-banner.png",
+        "title": "Make it easy with",
+        "title1": "ZILLAM",
+        "title2": "Your Trusted Fix for Home Services",
+        "btnText": "Our Services",
+        "shapeThumb": "4.png",
+        "videoId": "owhuBrGIOsEdsk"
+    }
+]

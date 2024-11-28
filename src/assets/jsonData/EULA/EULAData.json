@@ -1,0 +1,106 @@
+[
+    {
+      "title": "",
+      "effectiveDate": "",
+      "content": "This End User License Agreement (“Agreement” or “EULA”) is a legal agreement between you (\"User\") and Zillam (\"Company\"), governing your use of the Zillam mobile application (“App”). By downloading, installing, or using the App, you agree to be bound by the terms and conditions set forth in this EULA. If you do not agree to these terms, do not download, install, or use the App."
+    },
+    {
+      "title": "1. License Grant",
+      "content": "Subject to your compliance with the terms of this EULA, Zillam grants you a limited, non-exclusive, non-transferable, and revocable license to:",
+      "subsections": [
+        {
+          "content": " ●  Download, install, and use the Zillam App on a mobile device you own or control for personal, non-commercial purposes."
+        },
+        {
+          "content": "This license does not permit you to use the App on any device that you do not own or control, nor does it allow you to distribute or make the App available over a network where it could be used by multiple devices at the same time."
+        }
+      ]
+    },
+    {
+      "title": "2. Ownership and Intellectual Property",
+      "subsections": [
+        {
+          "title": "2.1 Ownership",
+          "content": "The Zillam App is licensed, not sold, to you. Zillam retains ownership of all rights, title, and interest in and to the App, including any and all intellectual property rights, trademarks, copyrights, and proprietary information."
+        },
+        {
+          "title": "2.2 Restrictions",
+          "content": "You may not:"
+        },
+              { "title": "", "content": "● Copy, modify, or create derivative works based on the App." },
+              { "title": "", "content": "● Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the App." },
+              { "title": "", "content": "● Rent, lease, lend, sell, redistribute, sublicense, or otherwise transfer the App to any third party." },
+              { "title": "", "content": "● Remove, alter, or obscure any copyright, trademark, or other proprietary notices on the App." }
+          
+      ]
+    },
+    {
+      "title": "3. Updates and Modifications",
+      "content": "Zillam may provide updates, enhancements, or modifications to the App from time to time. Such updates may be automatically installed on your device. By using the App, you agree to receive these updates. Zillam reserves the right to modify, suspend, or discontinue the App or any part thereof at any time without prior notice."
+    },
+    {
+      "title": "4. Privacy and Data Collection",
+      "content": "Zillam may collect and use information about your use of the App as described in the Zillam Data Privacy Policy. By using the App, you agree to the terms of the Privacy Policy and consent to the collection and use of your personal information as outlined therein."
+    },
+    {
+      "title": "5. Termination",
+      "subsections": [
+        {
+          "title": "5.1 Termination by You",
+          "content": "You may terminate this EULA by discontinuing use of the App and uninstalling it from your device."
+        },
+        {
+          "title": "5.2 Termination by Zillam",
+          "content": "Zillam reserves the right to terminate or suspend this EULA and your access to the App at any time, without notice, for any reason, including but not limited to violation of this Agreement or misuse of the App."
+        },
+        {
+          "title": "",
+          "content": "Upon termination, all rights granted to you under this EULA will immediately cease, and you must uninstall the App from your device."
+        }
+      ]
+    },
+    {
+      "title": "6. Disclaimer of Warranties",
+      "content": "The Zillam App is provided on an \"as is\" and \"as available\" basis, without warranties of any kind, express or implied. To the fullest extent permitted by law, Zillam disclaims all warranties, including but not limited to implied warranties of merchantability, fitness for a particular purpose, non-infringement, and freedom from computer viruses or other harmful code.",
+      "subsections": [
+          { "title": "", "content": "● The App will be uninterrupted, error-free, or secure." },
+          { "title": "", "content": "● Any defects or errors in the App will be corrected." },
+          { "title": "", "content": "● The App will meet your specific requirements or expectations." }
+      ]
+  },
+    {
+      "title": "7. Limitation of Liability",
+      "content": "To the maximum extent permitted by law, Zillam and its affiliates, officers, directors, employees, agents, and licensors shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the App. This includes, but is not limited to, loss of data, damages to your device, or other losses, even if Zillam has been advised of the possibility of such damages.",
+      "subsections": [
+        {
+          "content": "In no event shall Zillam’s total liability to you for all claims exceed the amount you paid, if any, to download and use the App."
+        }
+      ]
+    },
+    {
+      "title": "8. Indemnification",
+      "content": "You agree to indemnify, defend, and hold harmless Zillam and its affiliates, officers, directors, employees, and agents from and against any claims, damages, losses, or expenses (including attorney’s fees) arising out of or related to your use of the App, your violation of this EULA, or your infringement of any third-party rights."
+    },
+    {
+      "title": "9. Governing Law and Dispute Resolution",
+      "content": "This EULA is governed by and constructed in accordance with the laws of the Government of India, without regard to its conflict of law principles. Any disputes arising under this EULA will be subject to the exclusive jurisdiction of the courts of Government of India."
+    },
+    {
+      "title": "10. Changes to the Agreement",
+      "content": "Zillam reserves the right to modify or amend this EULA at any time. Any updates to the Agreement will be posted within the App or provided to you by other means of communication. Your continued use of the App following such changes constitutes your acceptance of the modified EULA."
+    },
+    {
+      "title": "11. Contact Information",
+      "content": "If you have any questions or concerns regarding this EULA, please contact us at:",
+      "subsections": [
+        {
+          "title":  "Email:",
+          "content": "support@zillam.com"
+        },
+        {
+          "title":  "Phone:",
+          "content": "+91 62826 17650"
+        }
+      ]
+    }
+  ]  

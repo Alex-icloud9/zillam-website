@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "bgThumb": "demo.jpg",
+        "title": "Meet Consulting",
+        "title1": "No more Hassle",
+        "title2": "Just quality solution for your home.",
+        "btnText": "Our Services",
+        "shapeThumb": "4.png",
+        "videoId": "owhuBrGIOsEdsk"
+    },
+    {
+        "id": 2,
+        "bgThumb": "dummy.jpg",
+        "title": "Coaching & Consulting",
+        "title1": "Strategies for",
+        "title2": "Enduring Success",
+        "btnText": "Our Services",
+        "shapeThumb": "4.png",
+        "videoId": "owhuBrGIOsEdsk"
+    }
+]

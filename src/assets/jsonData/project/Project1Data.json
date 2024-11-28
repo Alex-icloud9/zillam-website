@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "inspect.jpg",
+        "tag": "Strategy",
+        "title": "Inspect & Discuss:",
+        "text": "Our experts thoroughly inspect the issue to identify the root cause and any underlying concerns,We engage in clear discussions with you to understand your needs and explain potential solutions",
+        "btnText": "Service Detail"
+    },
+    {
+        "id": 2,
+        "thumb": "fix.jpg",
+        "tag": "Deploy",
+        "title": "Strategy & Fix",
+        "text": "We devise a strategic plan tailored to ensure effective, safe, and lasting results,Our skilled professionals execute precise repairs or installations to resolve the issue efficiently",
+        "btnText": "Service Detail"
+    }
+]

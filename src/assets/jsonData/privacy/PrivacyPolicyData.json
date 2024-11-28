@@ -1,0 +1,172 @@
+[
+    {
+        "title": "1. Introduction",
+        "content": "At Zillam, we prioritize the privacy of our users and are committed to protecting your personal data. This Data Privacy Policy explains what information we collect, how we use it, and your rights regarding that information. By using the Zillam mobile application (\"App\"), you agree to the terms of this policy.",
+        "subsections": [
+            {
+                "title": "",
+                "content": "This privacy policy applies when you use our services."
+            }
+        ]
+    },
+    {
+        "title": "2. Information We Collect",
+        "content": "To provide you with the best possible service, Zillam collects certain types of personal information when you use our App. This information is collected for purposes including user registration, service requests, and enhancing user experience.",
+        "subsections": [
+            {
+                "title": "2.1 Information Collected During Sign-Up",
+                "content": "When you sign up to use the Zillam App, we may collect the following information:"
+            },
+            {
+                "title": " ● Full Name",
+                "content": ""
+            },
+            {
+                "title": " ● Email Address",
+                "content": ""
+            },
+            {
+                "title": " ● Phone Number",
+                "content": ""
+            },
+            {
+                "title": " ● Location Data (If required for service purposes)",
+                "content": ""
+            },
+            {
+                "title": "",
+                "content": "\n"
+            },
+            {
+                "title": "",
+                "content": "We collect the phone device identification ID to identify you as a unique user. App uses permissions of the device:"
+            },
+            {
+                "title": "",
+                "content": "App uses permissions of the device"
+            },
+            {
+                "title": "",
+                "content": " ● Gallery"
+            },
+            {
+                "title": "",
+                "content": " ● Messages (sms)"
+            },
+            {
+                "title": "",
+                "content": "● Camera"
+            },
+            {
+                "title": "",
+                "content": " ● Notifications"
+            },
+            
+            {
+                "title": "2.2 Information Collected for Service Requests",
+                "content": "When you generate a service request through the Zillam App, we may collect:"
+            },
+            {
+                "title": "",
+                "content": " ● Service Details (Nature of the request, location, time)"
+            },
+            {
+                "title": "",
+                "content": "● User Preferences (to better tailor our services to you))"
+            },
+            {
+                "title": "",
+                "content": " ● Payment Information (if applicable for paid services)"
+            }
+        ]
+    },
+    {
+        "title": "3. How We Use Your Information",
+        "content": "The information collected is used for the following purposes:",
+        "subsections": [
+            {
+                "title": " ● AccountCreation & Authentication:",
+                "content": "To create your account and verify your identity during sign-up"
+            },
+            {
+                "title": "",
+                "content": ""
+            },
+            {
+                "title": "",
+                "content": "We create a customer account as well as an Agency Account."
+            },
+            {
+                "title": "",
+                "content": " For Agency Verification, we collect identity proof to verify them as an individual or company. We collect Agency images, and certification details to prove the authenticity as a service provider."
+            },
+            {
+                "title": "● Service Delivery:",
+                "content": "To process and respond to your service requests, including assigning tasks to service providers."
+            },
+            {
+                "title": "",
+                "content": " While creating a service request, with the consent of the customer, once they select the service to address or pick up an auto address from Google Map, we use Google Map Address APIs to collect the latitude and longitude of the address chosen."
+            },
+            {
+                "title": " ● Communication:",
+                "content": "To send you notifications, updates, and respond to your queries regarding your account or services."
+            },
+            {
+                "title": "",
+                "content": " We use in-app notifications and sms notifications for both user types."
+            },
+            {
+                "title": "",
+                "content": " We send push notifications to inform the user, regarding successful registration,assigning a service request, canceling or amending an appointment, payment progress or success notifications in compliance with the third party payment gateways integrated with ZILLAM."
+            },
+            {
+                "title": " ● Enhancements:",
+                "content": " To analyze usage patterns and improve the functionality of the App."
+            },
+            {
+                "title": " ● Compliance:",
+                "content": " To comply with legal obligations and protect the integrity of our platform."
+            }
+        ]
+    },
+    {
+        "title": "4. Data Security",
+        "content": "We are committed to safeguarding your information. Zillam employs industry-standard security measures such as encryption and secure server connections to protect your data from unauthorized access, disclosure, or alteration."
+    },
+    {
+        "title": "5. Data Retention",
+        "content": "Zillam retains personal information for as long as necessary to provide our services or as required by law. Once your information is no longer needed, we will securely delete or anonymize it."
+    },
+    {
+        "title": "6. Sharing of Information",
+        "content": "We do not sell, trade, or rent your personal information to third parties. However, we may share information with trusted service providers and partners for the purposes of fulfilling your service requests or improving the App, subject to confidentiality obligations."
+    },
+    {
+        "title": "7. Your Data Privacy Rights",
+        "content": "You have the following rights concerning your personal information:",
+        "subsections": [
+            { "title": "● Access:", "content": " You may request access to the personal data we hold about you." },
+            { "title": "● Correction:", "content": " You may request corrections to inaccurate or incomplete data." },
+            { "title": "● Deletion:", "content": " You may request that we delete your personal information, subject to legal requirements." },
+            { "title": "● Data Portability:", "content": " You may request a copy of your data in a portable format." }
+        ]
+    },
+    {
+        "title": "8. Updates to This Policy",
+        "content": "We may update this Data Privacy Policy periodically to reflect changes in our practices or legal obligations. Any updates will be posted within the App, and you will be notified of significant changes."
+    },
+    {
+        "title": "9. Contact Us",
+        "subsections": [
+            {
+                "title": "Email",
+                "content": "business@zillam.com"
+            },
+            {
+                "title": "Phone",
+                "content": "+91 62826 17650"
+            }
+        ]
+    }
+]

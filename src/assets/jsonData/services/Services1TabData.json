@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "tabClass": "show active",
+        "tabId": "tab1",
+        "ariaLabelled": "nav-id-1",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-group",
+                "title": "Skilled and Certified Professionals:",
+                "text": "All electricians are fully trained, licensed, and background-checked to ensure high-quality and reliable service."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Quick and Flexible Scheduling: ",
+                "text": "Get fast, efficient service at your convenience with flexible appointment options."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-personal",
+                "title": "Affordable Pricing:",
+                "text": "Transparent, no-hidden-fee pricing so you know exactly what to expect before any work begins."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-handshake",
+                "title": "Customer Satisfaction Guarantee:",
+                "text": "We’re committed to getting the job done right and ensuring you’re completely satisfied with our work."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tabClass": "",
+        "tabId": "tab2",
+        "ariaLabelled": "nav-id-2",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-portfolio",
+                "title": "Comprehensive Services:",
+                "text": "We offer a full range of plumbing services, including leak repairs, pipe replacements, drain cleaning, and water heater installations."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-development-1",
+                "title": "Leak Detection and Repair:",
+                "text": " Using advanced technology to detect leaks and prevent costly water damage."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-team",
+                "title": "Expert Plumbing Technicians:",
+                "text": "Our plumbers are licensed, experienced, and fully trained to handle all your plumbing needs."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-solution-3",
+                "title": "Eco-Friendly Solutions:",
+                "text": "We offer environmentally conscious options like water-saving fixtures and energy-efficient systems."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tabClass": "",
+        "tabId": "tab3",
+        "ariaLabelled": "nav-id-3",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "Comprehensive Cleaning Options:",
+                "text": "From deep cleaning and move-in/move-out cleaning to regular housekeeping and specialized tasks like carpet and upholstery cleaning."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-network",
+                "title": "Customizable Services:",
+                "text": "Tailor your cleaning package to meet your specific needs, including kitchen, bathroom, or whole-home cleaning."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-analysis-1",
+                "title": "Attention to Detail:",
+                "text": "Our cleaners focus on every detail, ensuring your home is spotless and maintained to the highest standards."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Fast and Reliable:",
+                "text": "Count on timely, reliable service that works around your schedule for a stress-free experience."
+            }
+        ]
+
+        
+    },
+    {
+        "id": 4,
+        "tabClass": "",
+        "tabId": "tab4",
+        "ariaLabelled": "nav-id-4",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-group",
+                "title": "Skilled Craftsmen:",
+                "text": "Our carpenters are experienced professionals, skilled in both traditional and modern carpentry techniques to deliver top-quality results."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-solution-2",
+                "title": "Wide Range of Services:",
+                "text": "From custom furniture building and cabinetry to repairs, shelving, and home renovations, we handle all carpentry needs."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Fast and Efficient Service:",
+                "text": "We complete projects on time, minimizing disruptions and ensuring a seamless experience."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-development-1",
+                "title": "Repairs and Restorations: ",
+                "text": "Expert repair services for damaged furniture, wooden fixtures, and structures to bring them back to life."
+            }
+        ]
+    }
+]

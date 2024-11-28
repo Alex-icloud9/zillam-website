@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "tabClass": "show active",
+        "tabId": "tab1",
+        "ariaLabelled": "nav-id-1",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "flaticon-personal",
+                "title": "Expert Electrical Repairs",
+                "text": "Our certified electricians are ready to address all types of electrical repair needs, from faulty wiring to malfunctioning outlets. We ensure safe, efficient solutions that restore functionality and peace of mind."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Seamless Installations",
+                "text": "Whether you’re setting up new lighting fixtures or major appliances, our professionals handle all installations with precision and care. We prioritize quality work that meets safety standards and enhances your home."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-group",
+                "title": "Preventative Maintenance",
+                "text": "Regular electrical maintenance prevents future issues and extends the lifespan of your electrical systems. Our experts provide thorough check-ups and adjustments to keep your home running smoothly and safely."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-solution-5",
+                "title": "Emergency Electrical Services",
+                "text": "Electrical problems can arise unexpectedly. With our responsive emergency services, you can count on quick assistance any time of day to address urgent issues and restore power safely and efficiently."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tabClass": "",
+        "tabId": "tab2",
+        "ariaLabelled": "nav-id-2",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-business-trip",
+                "title": "Strategy & Planning",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-online-store",
+                "title": "Online Business",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Saving & Investments",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Markets Research",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tabClass": "",
+        "tabId": "tab3",
+        "ariaLabelled": "nav-id-3",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "Investment Plannings",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "M",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Saving & Investments",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "G",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tabClass": "",
+        "tabId": "tab4",
+        "ariaLabelled": "nav-id-4",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "I",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "M",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Ss",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "G",
+                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+            }
+        ]
+    }
+]

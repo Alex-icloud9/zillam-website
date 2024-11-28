@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "ratings": 5,
+        "title": "The best service app ever",
+        "text": "I was skeptical about home service apps, but ZILLAM changed my mind. The strategy and fixing phases were efficient and professional.the detailed inspection phase made me confident they knew what they were doing, and the discussion step made me feel heard. The strategy they proposed was clear and well-explained, which reassured me that they had a plan in place. Finally, the actual fix was carried out seamlessly, with attention to detail and safety. The app's user-friendly interface was a big plus!",
+        "name": "Dr.Kurian",
+        "designation": ""
+    },
+    {
+        "id": 2,
+        "ratings": 5,
+        "title": "Awesome Service",
+        "text": "The app's inspection and strategy phase really impressed me. It felt like they took the time to understand my needs before jumping into repairs. Great attention to detail.",
+        "name": "Syam Krishna",
+        "designation": ""
+    },
+    {
+        "id": 3,
+        "ratings": 5,
+        "title": "Just Impressive",
+        "text": "ZILLAM made booking an electrician so easy! I appreciated the clear communication and step-by-step process they follow. The repair was done quickly and safely — highly recommend it!",
+        "name": "Shahida Beegam",
+        "designation": ""
+    },
+    {
+        "id": 4,
+        "ratings": 5,
+        "title": "So Reliable",
+        "text": "Loved how thorough the process was! The Plumber inspected, discussed options with me, and had a plan before starting the fix. Reliable service and excellent results!",
+        "name": "Babu Panicker",
+        "designation": ""
+    }
+]

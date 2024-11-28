@@ -1,0 +1,102 @@
+[
+    {
+        "title": "",
+        "content": "These Terms of Use (\"Terms\") govern your access and use of the Zillam App. By using the App, you agree to comply with these Terms. Please read them carefully."
+    },
+    {
+        "title": "1. Acceptance of Terms",
+        "content": "By downloading, accessing, or using the Zillam App, you agree to be bound by these Terms, our Privacy Policy, and any other policies referenced herein. If you do not agree to these Terms, you may not use the App."
+    },
+    {
+        "title": "2. Use of the App",
+        "subsections": [
+            {
+                "title": "2.1 Eligibility",
+                "content": "You must be at least 18 years old to use the Zillam App. By registering and using the App, you represent that you are legally able to enter into this agreement."
+            },
+            {
+                "title": "2.2 License",
+                "content": "Zillam grants you a limited, non-exclusive, non-transferable, and revocable license to use the App for personal, non-commercial purposes. You may not modify, copy, distribute, sell, or lease any part of the App unless explicitly authorized by Zillam."
+            },
+            {
+                "title": "2.3 User Accounts",
+                "content": "To access certain features of the App, you may be required to create a user account. You agree to provide accurate and complete information during registration and to keep your account information up to date. You are responsible for maintaining the confidentiality of your account and password."
+            },
+            {
+                "title": "2.4 Prohibited Conduct",
+                "content": "You agree not to:\n- Use the App for any illegal purpose or violate any local, state, national, or international law.\n- Engage in any fraudulent, deceptive, or misleading activity.\n- Attempt to gain unauthorized access to any part of the App or its systems.\n- Impersonate any person or entity or misrepresent your affiliation with any person or entity."
+            }
+        ]
+    },
+    {
+        "title": "3. Service Requests and Payments",
+        "subsections": [
+            {
+                "title": "3.1 Service Requests",
+                "content": "Zillam allows you to create service requests through the App. When you submit a request, you agree to provide accurate information. Zillam reserves the right to refuse or cancel any service request for any reason, including but not limited to misrepresentation of information, fraudulent activity, or suspected violation of these Terms."
+            },
+            {
+                "title": "3.2 Payments",
+                "content": "For paid services, Zillam will collect payment information during the request process. You agree to pay all charges associated with the services you request, including applicable taxes and fees. Zillam uses third-party payment processors, and by making a payment, you agree to their terms and conditions as well."
+            }
+        ]
+    },
+    {
+        "title": "4. Intellectual Property",
+        "content": "All content within the Zillam App, including but not limited to text, graphics, logos, icons, images, and software, is the property of Zillam or its licensors. You may not reproduce, distribute, or create derivative works from this content without express written permission."
+    },
+    {
+        "title": "5. Disclaimers",
+        "subsections": [
+            {
+                "title": "5.1 Service Availability",
+                "content": "Zillam makes every effort to keep the App available, but we cannot guarantee uninterrupted access. We reserve the right to modify, suspend, or discontinue the App, or any part thereof, at any time without prior notice."
+            },
+            {
+                "title": "5.2 No Warranty",
+                "content": "The Zillam App is provided on an 'as is' and 'as available' basis. To the fullest extent permitted by law, Zillam disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement."
+            },
+            {
+                "title": "5.3 Third-Party Services",
+                "content": "Zillam may provide links or integrations with third-party services. Zillam is not responsible for the content, functionality, or availability of such services, and you agree that your use of these third-party services is at your own risk."
+            }
+        ]
+    },
+    {
+        "title": "6. Limitation of Liability",
+        "content": "To the fullest extent permitted by applicable law, Zillam and its affiliates, officers, directors, employees, and agents will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the App, even if Zillam has been advised of the possibility of such damages. In no event will Zillam’s total liability to you for all damages, losses, or causes of action exceed the amount you paid, if any, to Zillam for using the App."
+    },
+    {
+        "title": "7. Indemnification",
+        "content": "You agree to indemnify and hold harmless Zillam, its affiliates, officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses, including legal fees, arising out of or in any way connected with your use of the App, your violation of these Terms, or your violation of any third-party rights."
+    },
+    {
+        "title": "8. Termination",
+        "content": "Zillam reserves the right to suspend or terminate your access to the App at any time, for any reason, including but not limited to violation of these Terms. Upon termination, all rights granted to you under these Terms will cease, and you must discontinue all use of the App."
+    },
+    {
+        "title": "9. Changes to the Terms",
+        "content": "Zillam reserves the right to modify these Terms at any time. We will notify you of any significant changes by posting the updated Terms within the App or by other means of communication. Your continued use of the App following such changes constitutes your acceptance of the new Terms."
+    },
+    {
+        "title": "10. Governing Law and Dispute Resolution",
+        "content": "These Terms are governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any disputes arising out of or related to these Terms or the use of the Zillam App will be subject to the exclusive jurisdiction of the courts in [Insert Jurisdiction]."
+    },
+    {
+        "title": "11. Contact Information",
+        "content": "If you have any questions or concerns regarding these Terms or the App,"
+    },
+    {
+        "title": "please contact us at:",
+        "subsections": [
+            {
+                "title": "Email:",
+                "content": "support@zillam.com"
+            },
+            {
+                "title": "Phone:",
+                "content": "+91 6282617650"
+            }
+        ]
+        }        
+]

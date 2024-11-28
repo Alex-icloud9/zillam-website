@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "headingId": "headingOne",
+        "btnClass": "",
+        "collapseTarget": "collapseOne",
+        "expanded": "true",
+        "title": "What services does ZILLAM offer?",
+        "textClass": "show",
+        "text": "ZILLAM provides a wide range of home services including electrical work, carpentry, plumbing, and cleaning. Our skilled professionals handle everything from inspections and repairs to installations and routine maintenance."
+    },
+    {
+        "id": 2,
+        "headingId": "headingTwo",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseTwo",
+        "expanded": "false",
+        "title": "Are the professionals background-checked?",
+        "textClass": "",
+        "text": "Yes, all professionals on ZILLAM are thoroughly vetted, including background checks, certifications, and experience verification, ensuring that you receive trustworthy, reliable service."
+    },
+    {
+        "id": 3,
+        "headingId": "headingThree",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseThree",
+        "expanded": "false",
+        "title": "How do I book a service through the app?",
+        "textClass": "",
+        "text": "Simply download the ZILLAM app, select the service you need, choose a date and time, and we'll match you with a qualified professional. You’ll receive a confirmation and can track the status of your appointment."
+    },
+    {
+        "id": 4,
+        "headingId": "headingFour",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFour",
+        "expanded": "false",
+        "title": "Can I reschedule or cancel my appointment?",
+        "textClass": "",
+        "text": "Yes, you can easily reschedule or cancel your appointment directly through the app, subject to our terms and conditions. We aim to provide flexibility to meet your needs."
+    }
+]

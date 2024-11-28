@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "headingId": "headingOne",
+        "btnClass": "",
+        "collapseTarget": "collapseOne",
+        "expanded": "true",
+        "title": " What is Zillam?",
+        "textClass": "show",
+        "text": "Zillam is a user-friendly service platform app designed to provide services for users who require maintenance or repair services at their home or premises. It offers services and features to help you quickly avail service booking for your requirements."
+    },
+    {
+        "id": 2,
+        "headingId": "headingTwo",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseTwo",
+        "expanded": "false",
+        "title": "On which platforms is Zillam available?",
+        "textClass": "",
+        "text": "Zillam is available for both iOS and Android devices. You can download it from the Apple App Store or Google Play Store."
+    },
+    {
+        "id": 3,
+        "headingId": "headingThree",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseThree",
+        "expanded": "false",
+        "title": " How do I create an account?",
+        "textClass": "",
+        "text": "To create an account, download the Zillam app, open it, and follow the registration process. You’ll need a valid phone number to sign up.You will recieve an OTP on the number using for registration so as to continue using as a customer account."
+    },
+    {
+        "id": 4,
+        "headingId": "headingFour",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFour",
+        "expanded": "false",
+        "title": " Can I use Zillam without an account?",
+        "textClass": "",
+        "text": "Some features may be accessible without an account, but to fully enjoy all of Zillam’s tools and functionalities, you’ll need to register and sign in."
+    },
+    {
+        "id": 5,
+        "headingId": "headingFive",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFive",
+        "expanded": "false",
+        "title": "How do I request a new service?",
+        "textClass": "",
+        "text": "To start a new service request or task, tap on the services listed on the main screen, select “service,” and enter the details. You can give the description of work, Location address to service, and choose the time slots available with agencies."
+    },
+    {
+        "id": 6,
+        "headingId": "headingSix",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseSix",
+        "expanded": "false",
+        "title": " How can I track my service requests on tasks?",
+        "textClass": "",
+        "text": " A completed payment service request will appear on the Appointments tab. Customers can easily track status and progress of the work."
+    },
+    {
+        "id": 7,
+        "headingId": "headingSeven",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseSeven",
+        "expanded": "false",
+        "title": "Can I receive notifications for upcoming deadlines?",
+        "textClass": "",
+        "text": " Absolutely. You can customize your notifications to alert you of upcoming services, task updates. Go to “Settings” > “Notifications” to manage these options."
+    },
+    {
+        "id": 8,
+        "headingId": "headingEight",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseEight",
+        "expanded": "false",
+        "title": " How can I turn off notifications?",
+        "textClass": "",
+        "text": " To turn off notifications, go to “Settings” > “Notifications,” and toggle off the options you no longer want to receive alerts for."
+    },
+    {
+        "id": 9,
+        "headingId": "headingNine",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseNine",
+        "expanded": "false",
+        "title": " Is Zillam free to use?",
+        "textClass": "",
+        "text": "Zillam offers a free version with basic features. However, you can upgrade to a premium plan to access advanced features like featured access."
+    },
+    {
+        "id": 10,
+        "headingId": "headingTen",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseTen",
+        "expanded": "false",
+        "title": "What payment methods are accepted?",
+        "textClass": "",
+        "text": "We accept major credit cards, UPI, and other payment options available in your region."
+    },
+    {
+        "id": 11,
+        "headingId": "headingEleven",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseEleven",
+        "expanded": "false",
+        "title": " I’m experiencing issues with the app. What should I do?",
+        "textClass": "",
+        "text": " First, try restarting the app. If the issue persists, ensure you have the latest version installed. If problems continue, reach out to our support team by tapping “Help” in the app."
+    },
+    {
+        "id": 12,
+        "headingId": "headingTwelve",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseTwelve",
+        "expanded": "false",
+        "title": "How can I report a bug or suggest a new feature?",
+        "textClass": "",
+        "text": "Go to the “Feedback” section in the app and fill out the form to report bugs or share your ideas for new features. We value your input and are always working to improve the app."
+    },
+    {
+        "id": 13,
+        "headingId": "headingThirteen",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseThirteen",
+        "expanded": "false",
+        "title": " How can I contact customer support?",
+        "textClass": "",
+        "text": "You can contact customer support directly in the app under “Help” > “Contact Support,” or email us at support@zillam.com  We aim to respond within 24 hours."
+    },
+    {
+        "id": 14,
+        "headingId": "headingFourteen",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFourteen",
+        "expanded": "false",
+        "title": " How does Zillam handle my personal information?",
+        "textClass": "",
+        "text": " Zillam takes privacy and data security seriously. We use encryption and other security measures to protect your information. For more details, please review our Privacy Policy on the app’s website."
+    },
+    {
+        "id": 15,
+        "headingId": "headingFifteen",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFifteen",
+        "expanded": "false",
+        "title": " Can I delete my account?",
+        "textClass": "",
+        "text": "Yes, if you’d like to delete your account, go to “Settings” > “Account” > “Delete Account.” This action is permanent and will remove all your data from our servers."
+    },
+    {
+        "id": 16,
+        "headingId": "headingSixteen",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseSixteen",
+        "expanded": "false",
+        "title": "How do I manage my privacy settings?",
+        "textClass": "",
+        "text": " Go to “Settings” > “Privacy” to manage who can view your profile and access your projects"
+    }
+]
